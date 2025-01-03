@@ -16,10 +16,12 @@ gdrive list
 
 ### Install an Application
 ```bash  
-gdrive install  
+gdrive install APP_NAME 
 ```  
+Replace `APP_NAME` with the actual supported application name
 
 ### Remove an Application
 ```bash  
-gdrive remove  
+gdrive remove APP_NAME 
 ```  
+Replace `APP_NAME` with the actual supported application name
