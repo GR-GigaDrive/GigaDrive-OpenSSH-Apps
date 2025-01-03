@@ -6,7 +6,7 @@ This repository offers straightforward and efficient installation scripts to sim
 
 ### Install the Module
 ```bash  
-git clone https://git.hub /usr/local/bin/GigaDrive  
+git clone https://github.com/GR-GigaDrive/GigaDrive-OpenSSH-Apps.git /usr/local/bin/GigaDrive  
 ```  
 
 ### List Supported Applications
